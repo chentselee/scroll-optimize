@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+}
+
+body {
+  height: 300vh;
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+div {
+  display: flex;
+  position: fixed;
+  top: 40%;
+}
+
+.counter {
+  position: fixed;
+  bottom: 0;
+  right: 10px;
+}
